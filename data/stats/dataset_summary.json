@@ -1,0 +1,10 @@
+{
+  "num_articles_total": 4000,
+  "num_scopes_total": 1,
+  "articles_per_venue_key": {
+    "tpami": 4000
+  },
+  "avg_abstract_len": 1516.2895,
+  "min_year": 2015,
+  "max_year": 2025
+}
